@@ -1,7 +1,8 @@
 {
-    "clientID": "",
-    "baseUrl": "",
-    "signInRedirectURL": "https://localhost:3000",
-    "signOutRedirectURL": "https://localhost:3000",
+    "clientID": "ylZVPrUxgPCPrgiLAoCWGkOhhDqTdnU7Wx2T",
+    "baseUrl": "https://go.utah.edu/cas/oidc",
+    "signInRedirectURL": "https://945ccb54-ad27-4f50-ba98-b5f974321711.nonprod.uou.choreoapps.dev/",
+    "signOutRedirectURL": "https://945ccb54-ad27-4f50-ba98-b5f974321711.nonprod.uou.choreoapps.dev",
     "scope": ["profile"]
 }
+
