@@ -1,8 +1,8 @@
 {
-    "clientID": "ylZVPrUxgPCPrgiLAoCWGkOhhDqTdnU7Wx2T",
+    "clientID": "JWFN_J3mBlnFZM9P4c6C6yqQPRga",
     "signInRedirectURL": "https://945ccb54-ad27-4f50-ba98-b5f974321711.nonprod.uou.choreoapps.dev/",
     "signOutRedirectURL": "https://945ccb54-ad27-4f50-ba98-b5f974321711.nonprod.uou.choreoapps.dev",
-    "scope": ["profile"],
-    "wellKnownEndpoint": "https://go.utah.edu/cas/oidc/.well-known"
+    "scope": ["profile","profile"],
+    "baseUrl": "https://api.asgardeo.io/t/universityofutah"
 }
 
