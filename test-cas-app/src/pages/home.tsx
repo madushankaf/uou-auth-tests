@@ -169,12 +169,9 @@ export const HomePage: FunctionComponent = (): ReactElement => {
                                 <img alt="react-logo" src={ REACT_LOGO } className="react-logo-image logo"/>
                             </div>
                             <h4 className={ "spa-app-description" }>
-                                Sample demo to showcase authentication for a Single Page Application
-                                via the OpenID Connect Authorization Code flow,
-                                which is integrated using the&nbsp;
-                                <a href="https://github.com/asgardeo/asgardeo-auth-react-sdk" target="_blank" rel="noreferrer noopener">
-                                    Asgardeo Auth React SDK
-                                </a>.
+                                This is a sample React SPA that demonstrates CAS Authentication
+                                via Federation through Choreo's Key Manager. Onboad a user to the Application and test. Once login, 
+                                the decoded ID Token will be displayed.
                             </h4>
                             <button
                                 className="btn primary"

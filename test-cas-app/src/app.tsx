@@ -24,7 +24,7 @@ import "./app.css";
 import { default as authConfig } from "./config.json";
 import { ErrorBoundary } from "./error-boundary";
 import { HomePage, NotFoundPage } from "./pages";
-
+    
 const AppContent: FunctionComponent = (): ReactElement => {
     const { error } = useAuthContext();
 
