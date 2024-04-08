@@ -169,9 +169,8 @@ export const HomePage: FunctionComponent = (): ReactElement => {
                                 <img alt="react-logo" src={ REACT_LOGO } className="react-logo-image logo"/>
                             </div>
                             <h4 className={ "spa-app-description" }>
-                                This is a sample React SPA that demonstrates CAS Authentication
-                                via Federation through Choreo's Key Manager. Onboad a user to the Application and test. Once login, 
-                                the decoded ID Token will be displayed.
+                            This is a sample React SPA that demonstrates CAS Authentication via Federation through Choreo's Key Manager.
+                            Onboard a user to the Application and test it. Once logged in, the decoded ID Token will be displayed.
                             </h4>
                             <button
                                 className="btn primary"
