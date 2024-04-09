@@ -1,7 +1,7 @@
 {
     "clientID": "vCV5J_vlBoJfGEGa5_30fWdrPloa",
-    "signInRedirectURL": "https://localhost:3000",
-    "signOutRedirectURL": "https://localhost:3000",
+    "signInRedirectURL": "https://5ccc3f3d-8e57-49de-b029-3ca61fc94a97.nonprod.uou.choreoapps.dev",
+    "signOutRedirectURL": "https://5ccc3f3d-8e57-49de-b029-3ca61fc94a97.nonprod.uou.choreoapps.dev",
     "scope": ["profile","profile"],
     "baseUrl": "https://api.asgardeo.io/t/universityofutah"
 }
