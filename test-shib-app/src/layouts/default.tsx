@@ -56,7 +56,7 @@ export const DefaultLayout: FunctionComponent<PropsWithChildren<DefaultLayoutPro
             <div className="container">
                 <div className="header-title">
                     <h1>
-                        Web Application to Demonstrate CAS Authentication ( via Federation through Choreo's KM)
+                        Web Application to Demonstrate ShibIDP SAML Authentication ( via Federation through Choreo's KM)
                     </h1>
                 </div>
                 {
