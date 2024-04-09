@@ -1,0 +1,8 @@
+{
+    "clientID": "ylZVPrUxgPCPrgiLAoCWGkOhhDqTdnU7Wx2T",
+    "signInRedirectURL": "https://localhost:3000",
+    "signOutRedirectURL": "https://localhost:3000",
+    "scope": ["profile","profile"],
+    "wellKnownEndpoint": "https://go.utah.edu/cas/oidc/.well-known"
+}
+
